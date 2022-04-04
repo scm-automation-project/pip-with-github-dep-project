@@ -1,0 +1,1 @@
+single-beat @ git+https://github.com/akachanov/single-beat.git@e500ac4b56756cdf96836666883af8060aaef455  # via -r requirements.in
